@@ -1,0 +1,6 @@
+{
+  "name": "Shree Bala Ji Grocery Store",
+  "description": "A modern, responsive online grocery store with shopping cart and admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
